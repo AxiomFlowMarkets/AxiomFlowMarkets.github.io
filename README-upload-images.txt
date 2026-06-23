@@ -1,0 +1,1 @@
+Upload your prepared images into /images and social media icons into /social-media with the exact filenames referenced in the HTML. Logomark.png is used as favicon. Repository: AxiomFlowMarkets.github.io
